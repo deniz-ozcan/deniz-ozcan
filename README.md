@@ -6,12 +6,6 @@
 <a href="https://github.com/deniz-ozcan/">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=deniz-ozcan&theme=gruvbox&hide_border=true" />
 </a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=deniz-ozcan&show_icons=true&theme=gruvbox&hide_border=true" /></a>
-</p>
-
-<p align="center">
- <a href="https://github.com/deniz-ozcan/">
-<img  width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniz-ozcan&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="deniz-ozcan :: Top Langs" /></a>
 <a href="https://github.com/deniz-ozcan/">
 <img  width="49.5%" src="https://github-profile-trophy.vercel.app/?username=deniz-ozcan&layout=compact&row=1&column=3&no-bg=true&no-frame=true&theme=gruvbox" alt="deniz-ozcan" /></a>
 </p>
