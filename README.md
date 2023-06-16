@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://github.com/deniz-ozcan"><img src="coder3.gif" alt="programmer" width="160px"></a>
+<a href="https://github.com/deniz-ozcan"><img src="coder3.gif" alt="programmer" width="10%"></a>
+<a href="https://github.com/deniz-ozcan"><img src="x.svg" alt="programmer" width="50%"></a>
 </p>
 <p align="center">
   <a href="https://github.com/deniz-ozcan">
