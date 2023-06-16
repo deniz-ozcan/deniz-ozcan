@@ -1,18 +1,12 @@
 <p align="center">
-<a href="https://github.com/deniz-ozcan"><img src="coder3.gif" alt="programmer" width="10%"></a>
-<a href="https://github.com/deniz-ozcan"><img src="x.svg" alt="programmer" width="50%"></a>
+  <img src="coder3.gif" alt="programmer" width="10%">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00ff88&center=true&vCenter=true&multiline=true&lines=Hi!%20I'm%20Deniz;Computer+Engineer;Backend+Developer;&center=true&width=250&height=90">
+  <img src="x.svg" alt="programmer" width="30%">
+
 </p>
 <p align="center">
-  <a href="https://github.com/deniz-ozcan">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=FD8019&center=true&vCenter=true&multiline=true&lines=Hi!%20I'm%20Deniz%20Özcan%20;Computer+Engineer;Competitive+Programmer;Backend+Developer;Self%20Learner&center=true&width=500&height=160">
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/deniz-ozcan/">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=deniz-ozcan&theme=gruvbox&hide_border=true" />
-</a>
-<a href="https://github.com/deniz-ozcan/">
-<img  width="49.5%" src="https://github-profile-trophy.vercel.app/?username=deniz-ozcan&layout=compact&row=1&column=3&no-bg=true&no-frame=true&theme=gruvbox" alt="deniz-ozcan" /></a>
+<img  width="49.5%" src="https://github-profile-trophy.vercel.app/?username=deniz-ozcan&layout=compact&row=1&column=3&no-bg=true&no-frame=true&theme=gruvbox" alt="deniz-ozcan" />
 </p>
 
 [![DENIZ](https://github-readme-activity-graph.vercel.app/graph?username=deniz-ozcan&theme=gruvbox)](https://github.com/deniz-ozcan/github-readme-activity-graph)
