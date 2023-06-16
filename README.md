@@ -10,7 +10,7 @@
 <img  width="49.5%" src="https://github-profile-trophy.vercel.app/?username=deniz-ozcan&layout=compact&row=1&column=3&no-bg=true&no-frame=true&theme=gruvbox" alt="deniz-ozcan" /></a>
 </p>
 
-![DENİZ ÖZCAN's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=deniz-ozcan&theme=gruvbox)
+[![DENIZ](https://github-readme-activity-graph.vercel.app/graph?username=deniz-ozcan&theme=gruvbox)](https://github.com/deniz-ozcan/github-readme-activity-graph)
 
 <p align="center">
 <h2 align="center"> :fire: Connect with me </h2>
