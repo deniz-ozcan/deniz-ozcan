@@ -1,8 +1,6 @@
 <p align="center">
   <img src="coder3.gif" alt="programmer" width="10%">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00ff88&center=true&vCenter=true&multiline=true&lines=Hi!%20I'm%20Deniz;Computer+Engineer;Backend+Developer;&center=true&width=250&height=90">
-  <img src="x.svg" alt="programmer" width="30%">
-
 </p>
 <p align="center">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=deniz-ozcan&theme=gruvbox&hide_border=true" />
